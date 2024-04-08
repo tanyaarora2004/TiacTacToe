@@ -5,3 +5,4 @@ In order to change the game mode, you need to run different methods **(run_game,
 
 ![Alt-текст](https://github.com/Martellus88/TiacTacToe/blob/master/img/example_tt.png)
 ![Alt-текст](https://github.com/Martellus88/TiacTacToe/blob/master/img/example_tie.png)
+hello.
